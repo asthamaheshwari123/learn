@@ -1,2 +1,2 @@
 # learn
-Autho-Astha Maheshwari
+Autho-Astha
