@@ -1,2 +1,2 @@
 # learn
-Autho-Astha
+Author-Astha
